@@ -60,6 +60,7 @@ I didn't come into this through a CS degree — I came in through building thing
 Compared 6 classical ML models; SVM won with F1 0.94. Shipped as an installable desktop app, not just a notebook.
 
 `Python` `Scikit-learn` `NLTK` `Flet` `Pytest`
+
 &nbsp;&nbsp;[repo →](https://github.com/AliAminiCode/Spam-Detector)
 </details>
 
@@ -70,7 +71,35 @@ Compared 6 classical ML models; SVM won with F1 0.94. Shipped as an installable 
 The first Jalali (Persian) calendar date-picker for the Flet framework — didn't exist, so I built and published it.
 
 `Python` `Flet` `Jalali Calendar`
+
 &nbsp;&nbsp;[repo →](https://github.com/AliAminiCode/flet-persian-datepicker)
+</details>
+
+<details>
+<summary><strong>RAG-Based Financial Reporting System</strong> — client project, code proprietary</summary>
+<br>
+
+Built for a company to automate financial report generation from structured business data using RAG and LLMs — cut a fully manual review process down to something that runs on its own. Code and data belong to the client, so it's not public.
+
+`Python` `SQL Server` `LangChain` `LLM`
+</details>
+
+<details>
+<summary><strong>DocForge</strong> — smart Word document generation platform, closed-source (for now)</summary>
+<br>
+
+A tool for generating and managing Word document templates without programming — dynamic forms, input validation, and centralized template management. Haven't open-sourced it yet, might change later.
+
+`Python` `Flet` `SQLite` `python-docx`
+</details>
+
+<details>
+<summary><strong>Algo-Trading Bot</strong> — didn't work out, but taught me more than most tutorials would</summary>
+<br>
+
+Tried building an automated trading strategy — not just a simple indicator-based bot. Tested and compared classical statistical methods, machine learning models, deep learning architectures, and time-series-specific approaches. Ultimately failed — but debugging why it failed taught me more about risk, data quality, and overfitting than any course could have.
+
+`Python` `Pandas` `Scikit-learn` `Tensorflow` `Time-Series Analysis` `Backtesting`
 </details>
 
 ---
