@@ -76,12 +76,12 @@ The first Jalali (Persian) calendar date-picker for the Flet framework — didn'
 </details>
 
 <details>
-<summary><strong>RAG-Based Financial Reporting System</strong> — client project, code proprietary</summary>
+<summary><strong>Structured RAG & LLM Financial Reporting System</strong> — client project, code proprietary</summary>
 <br>
 
-Built for a company to automate financial report generation from structured business data using RAG and LLMs — cut a fully manual review process down to something that runs on its own. Code and data belong to the client, so it's not public.
+Built for a company to automate financial report generation from SQL Server using structured data retrieval and LLMs — eliminated human error and manual reviews by enriching context windows with clean, deterministic data pipeline instead of vector search. Code and data belong to the client, so it's not public.
 
-`Python` `SQL Server` `LangChain` `LLM`
+`Python` `SQL Server` `LangChain` `LLM` `Context Engineering`
 </details>
 
 <details>
@@ -94,12 +94,12 @@ A tool for generating and managing Word document templates without programming �
 </details>
 
 <details>
-<summary><strong>Algo-Trading Bot</strong> — didn't work out, but taught me more than most tutorials would</summary>
+<summary><strong>XAUUSD Algo-Trading Research & Backtesting</strong> — didn't work out, but taught me more than most tutorials would</summary>
 <br>
 
-Tried building an automated trading strategy — not just a simple indicator-based bot. Tested and compared classical statistical methods, machine learning models, deep learning architectures, and time-series-specific approaches. Ultimately failed — but debugging why it failed taught me more about risk, data quality, and overfitting than any course could have.
+Explored and benchmarked various forecasting approaches for gold price trends (XAUUSD) — ranging from classical statistical models (GARCH, ARIMA) to deep learning architectures (LSTM, CNN1D, Transformers) and tree-based methods (XGBoost, SHAP). Ultimately proved that noisy market dynamics require more than standard architectures — but debugging why it failed taught me more about risk, data quality, and time-series limits than any course could have.
 
-`Python` `Pandas` `Scikit-learn` `Tensorflow` `Time-Series Analysis` `Backtesting`
+`Python` `Pandas` `Scikit-learn` `TensorFlow` `Time-Series Analysis` `Backtesting`
 </details>
 
 ---
