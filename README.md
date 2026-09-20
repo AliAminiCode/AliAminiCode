@@ -106,7 +106,7 @@ Tried building an automated trading strategy — not just a simple indicator-bas
 
 ### 🔭 right now
 
-Leveling up my infra skills — Docker, Kubernetes, CI/CD.
+Leveling up my infra skills — Linux (Ubuntu), Docker, CI/CD.
 
 ---
 
