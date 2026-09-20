@@ -44,7 +44,7 @@ I didn't come into this through a CS degree — I came in through building thing
 | Core | Python, SQL, Git | ▰▰▰▰▰ |
 | ML / DL | PyTorch, TensorFlow, Scikit-learn | ▰▰▰▰▱ |
 | LLM / RAG | LangChain, prompt & context engineering | ▰▰▰▱▱ |
-| Infra (learning now) | Docker, Kubernetes, CI/CD | ▰▰▱▱▱ |
+| Infra (learning now) | Linux (Ubuntu), Docker, CI/CD | ▰▰▱▱▱ |
 | Interfaces | Flet (desktop GUI), FastAPI | ▰▰▰▰▱ |
 
 </div>
